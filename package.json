@@ -1,0 +1,25 @@
+{
+  "name": "1dv610-l0",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "nameGreeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/nameGreeting.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalleandreasson/1dv610-L0.git"
+  },
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalleandreasson/1dv610-L0/issues"
+  },
+  "homepage": "https://github.com/kalleandreasson/1dv610-L0#readme"
+}
